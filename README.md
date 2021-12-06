@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rbdgswg
-- 👀 I’m interested in Honey, coding, and finances
+- 👀 I’m interested in honey, coding, and finances
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... any web development project that would be good for a beginner
 - 📫 How to reach me I'm @RbdgSwg everywhere except Facebook
